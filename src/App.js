@@ -8,7 +8,7 @@ import Company from './components/pages/company/Company';
 import NewProject from './components/pages/newProject/NewProject';
 import Projects from './components/pages/projects/Projects';
 import Footer from './components/layout/footer/Footer';
-
+//Ajustes de Arquivos
 function App() {
   return (
     <Router>
@@ -16,8 +16,8 @@ function App() {
         <Container customClass="min-height">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/contato" element={<Contato />} />
             <Route path="/company" element={<Company />} />
+            <Route path="/contato" element={<Contato />} />
             <Route path="/newproject" element={<NewProject />} />
             <Route path="/project" element={<Projects />} />
           </Routes>
