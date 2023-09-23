@@ -1,6 +1,6 @@
 .containerRoutes{
     /*background-color: rgb(209, 208, 208);*/
-    width: 1200px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
