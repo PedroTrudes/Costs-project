@@ -1,21 +1,165 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 1,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 1,
-            "name": "UX/UI"
-        },
-        {
-            "id": 1,
-            "name": "Scrum"
-        }
-    ]
+  "projects": [
+    {
+      "name": "aaaaa",
+      "budget": "22311",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 1
+    },
+    {
+      "name": "aaaaa",
+      "budget": "22311",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 2
+    },
+    {
+      "name": "aaaaa",
+      "budget": "22311",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 3
+    },
+    {
+      "name": "aaaaa",
+      "budget": "22311",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 4
+    },
+    {
+      "name": "aaaaa",
+      "budget": "22311",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 5
+    },
+    {
+      "name": "aaaaaaaa",
+      "budget": "2231122",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 6
+    },
+    {
+      "name": "aaaaaaaa",
+      "budget": "2231122",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 7
+    },
+    {
+      "name": "aaaaaaaa",
+      "budget": "2231122",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 8
+    },
+    {
+      "name": "aaaaaaaa",
+      "budget": "2231122",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 9
+    },
+    {
+      "name": "aaaaaaaa",
+      "budget": "2231122",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 10
+    },
+    {
+      "name": "aaaaaaaa",
+      "budget": "2231122",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 11
+    },
+    {
+      "name": "aaaaaaaa",
+      "budget": "2231122",
+      "category": {
+        "id": "3",
+        "name": "UX/UI"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 12
+    },
+    {
+      "name": "aaaa",
+      "budget": "222",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "UX/UI"
+    },
+    {
+      "id": 4,
+      "name": "Scrum"
+    }
+  ]
 }
