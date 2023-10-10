@@ -7,8 +7,9 @@ function NewProject() {
 
     function createPost(project){
         // initialize cost and service
-        project.cost = 0
-        project.service = []
+        project.cost = 0;
+        project.service = [];
+        //parei aqui 
 
         fetch("http://localhost:5000/projects", {
             method: 'POST',
@@ -17,7 +18,7 @@ function NewProject() {
             },
             body: JSON.stringify(project)
         }).then((resp) => resp.json()).then((data) => {
-            nav('/project', {message: 'Projeto criado com sucesso!'})
+            nav('/project', {state: {message: 'Projeto criado com sucesso!'}})
 
         }).catch(err => console.log(err))
     }
